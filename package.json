@@ -1,0 +1,19 @@
+{
+    "name": "website-markdown-saver",
+    "version": "1.0.0",
+    "description": "捕获网页标题和URL，按自定义快捷键将其以Markdown格式复制到剪贴板",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "lint": "eslint index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "@eslint/js": "^9.19.0",
+      "@stylistic/eslint-plugin": "^4.2.0",
+      "eslint": "^9.19.0",
+      "globals": "^16.1.0"
+    }
+  }
