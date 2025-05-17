@@ -25,7 +25,7 @@
     shiftKey: true,
     altKey: false,
     metaKey: isMac, // macOS 下为 true，Windows 下为 false
-    key: 'X',
+    key: 'Z',
   };
 
   // 从存储中读取设置，如果没有则使用默认设置
